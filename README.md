@@ -59,7 +59,7 @@ Each color represents a different customer segment.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/prvn18/customer-segmentation.git
+git clone https://github.com/prvn18/customer_segmentation-Clustering-.git
 cd customer-segmentation
 ```
 ### 2. Install Dependencies
